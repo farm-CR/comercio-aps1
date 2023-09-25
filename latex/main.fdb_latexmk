@@ -1,0 +1,28 @@
+# Fdb version 4
+["pdflatex"] 1695679826 "c:/git/comercio-aps1/latex/main.tex" "main.pdf" "main" 1695679827 0
+  "../relatorios/tabelas/ex3-ABW.tex" 1695679825 1145 15a17f2c6ec3d1997595dc804fe18996 ""
+  "C:/Users/gumac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1692625909 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/gumac/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1689621839 24118912 2933618e379a1e218fd36a2d29ca5672 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg" 1616067285 584 2a1075dd71571459f59146da9f7502ad ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1687174146 20144 fbcf51733730d8f1a62143512ff5b1fe ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1687174146 8448 74078c4a887f2cdcd57c3ec111622740 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty" 1579093635 6253 f1cb470c9199e7110a27851508ed7a5c ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/pdftex.def" 1663918690 19448 1e988b341dda20961a6b931bcde55519 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty" 1665067579 18387 8f900a490197ebaf93c02ae9476d4b09 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty" 1665067579 8010 a8d949cbdbc5c983593827c9eec252e1 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1681896761 29940 9473d58112bc8a88f5505b823a053dde ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1686255640 12691 ddae4e0162a664f166015d992388b742 ""
+  "c:/git/comercio-aps1/latex/main.tex" 1695679798 206 c821537a5a0dff599003b42f864441f4 ""
+  "main.aux" 1695679827 204 9e8e0fcffc206a79c478cf35e230616a "pdflatex"
+  "main.tex" 1695679798 206 c821537a5a0dff599003b42f864441f4 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)

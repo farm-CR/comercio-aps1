@@ -1,0 +1,156 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.17)  25 SEP 2023 19:10
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/git/comercio-aps1/latex/main.tex
+(c:/git/comercio-aps1/latex/main.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box51
+\extrarowheight=\dimen144
+\NC@list=\toks18
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen145
+\lightrulewidth=\dimen146
+\cmidrulewidth=\dimen147
+\belowrulesep=\dimen148
+\belowbottomsep=\dimen149
+\aboverulesep=\dimen150
+\abovetopsep=\dimen151
+\cmidrulesep=\dimen152
+\cmidrulekern=\dimen153
+\defaultaddspace=\dimen154
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen155
+\@belowrulesep=\dimen156
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen157
+) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box53
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+ (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen158
+\scratchbox=\box54
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen159
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks20
+) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (../relatorios/tabelas/ex3-ABW.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\OT1/cmr/m/n/10 Participa^^Xc~ao da
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 7--7
+\OT1/cmr/m/n/10 Ind^^Sustria nas Ex-
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Food/beverage/tobacco pro-cess-ing
+ []
+
+
+Overfull \hbox (115.56493pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) [1{C:/Users/gumac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1420 strings out of 475550
+ 23895 string characters out of 5762533
+ 1923238 words of memory out of 5000000
+ 22676 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,65p,234b,220s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/gumac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on main.pdf (1 page, 23385 bytes).
+PDF statistics:
+ 11 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
