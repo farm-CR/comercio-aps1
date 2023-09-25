@@ -2,6 +2,16 @@ library(tidyverse)
 library(haven)
 library(sjlabelled)
 library(readxl)
+library(ggthemes)
+
+theme_set(theme_bw() +
+            theme(text = element_text(family = "serif"),
+                  plot.title = element_text(size = 12),
+                  axis.text = element_text(size = 10),
+                  axis.title = element_text(size = 11),
+                  plot.caption = element_text(size = 11, hjust=0),
+                  legend.title = element_text(size = 11),
+                  legend.text = element_text(size = 10)))
 
 ## A) ----
 itpd <- read_dta("dados/itpd.dta")
@@ -64,13 +74,46 @@ df <- df %>%
   select(exporter_iso3, year, industry_name, sector_name, RCA, agricultural_land_area,
          human_capital_index, capital_stock_ppp, capital_stock_constant)
 
+df %>% 
+  write.csv(., file = "relatorios/tabela_ex4.csv")
+
 ## E) ----
 df %>% 
-  filter(!is.na(human_capital_index), !is.na(RCA), year == 2016) %>% 
-  ggplot(aes(human_capital_index, log(RCA))) +
-  # geom_point() +
-  stat_summary_bin(fun = "mean", bins = 500, geom = "point") +
-  facet_wrap(~ sector_name)
+  filter(!is.na(human_capital_index), !is.na(RCA), RCA != 0, year == 2016) %>% 
+  ggplot(aes(x = human_capital_index, y = log(RCA))) +
+  stat_summary_bin(fun = "mean", bins = 1000, geom = "point") +
+  geom_smooth(method = "lm") +
+  facet_wrap(~ sector_name) +
+  labs(x = "Human Capital Index",
+       y = "log RCA")
+ggsave('plots/rca_hc.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
 
+df %>% 
+  filter(!is.na(agricultural_land_area), !is.na(RCA), RCA != 0, year == 2016) %>% 
+  ggplot(aes(x = log(agricultural_land_area), y = log(RCA))) +
+  stat_summary_bin(fun = "mean", bins = 1000, geom = "point") +
+  geom_smooth(method = "lm") +
+  facet_wrap(~ sector_name) +
+  labs(x = "log Agricultural Land Area",
+       y = "log RCA")
+ggsave('plots/rca_land.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
 
-  
+df %>% 
+  filter(!is.na(capital_stock_constant), !is.na(RCA), RCA != 0, year == 2016) %>% 
+  ggplot(aes(x = log(capital_stock_constant), y = log(RCA))) +
+  stat_summary_bin(fun = "mean", bins = 1000, geom = "point") +
+  geom_smooth(method = "lm") +
+  facet_wrap(~ sector_name) +
+  labs(x = "log Capital Stock at constant national prices (mil. 2017US$)",
+       y = "log RCA")
+ggsave('plots/rca_k_constant.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
+
+df %>% 
+  filter(!is.na(capital_stock_ppp), !is.na(RCA), RCA != 0, year == 2016) %>% 
+  ggplot(aes(x = log(capital_stock_ppp), y = log(RCA))) +
+  stat_summary_bin(fun = "mean", bins = 1000, geom = "point") +
+  geom_smooth(method = "lm") +
+  facet_wrap(~ sector_name) +
+  labs(x = "log Capital Stock at current PPP (mil. 2017US$)",
+       y = "log RCA")
+ggsave('plots/rca_k_ppp.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
