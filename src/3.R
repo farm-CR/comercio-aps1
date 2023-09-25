@@ -6,7 +6,6 @@ library(sjlabelled)
 
 ## A) ----
 itpd.a <- itpd %>% 
-  filter(exporter_iso3 %in% c("BRA", "USA", "CHN")) %>% 
   filter(importer_iso3 != exporter_iso3) %>% 
   group_by(exporter_iso3, year, industry_id) %>% 
   summarise(total_industria = sum(trade / 1000))
@@ -38,11 +37,6 @@ itpd.c %>%
               as_tibble() %>% 
               mutate(id = seq(1, get_labels(itpd.c$industry_id) %>% length(), 1)),
             by = c("industry_id" = "id")) %>% 
-  select(exporter_iso3, year, RCA, industry_name = value)
+  select(exporter_iso3, year, RCA, industry_name = value) %>% 
+  write.csv(., file = "relatorios/tabela_ex3.csv")
 
-get_labels(itpd.c$industry_id)
-
-itpd.c %>% 
-  group_by(industry_id) %>% 
-  count() %>% 
-  filter(n > 0)
