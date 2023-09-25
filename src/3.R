@@ -2,7 +2,7 @@ library(tidyverse)
 library(haven)
 library(sjlabelled)
 
-  itpd <- read_dta("dados/itpd.dta")
+itpd <- read_dta("dados/itpd.dta")
 
 ## A) ----
 itpd.a <- itpd %>% 
