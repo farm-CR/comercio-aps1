@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.17)  25 SEP 2023 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.14)  25 SEP 2023 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/git/comercio-aps1/latex/main.tex
-(c:/git/comercio-aps1/latex/main.tex
+**d:/git/comercio-aps1/latex/main.tex
+(d:/git/comercio-aps1/latex/main.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
-(C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,90 +23,144 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+ (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen141
-\Gin@req@width=\dimen142
-) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen143
+\col@sep=\dimen151
 \ar@mcellbox=\box51
-\extrarowheight=\dimen144
-\NC@list=\toks18
+\extrarowheight=\dimen152
+\NC@list=\toks19
 \extratabsurround=\skip50
 \backup@length=\skip51
 \ar@cellbox=\box52
-) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen145
-\lightrulewidth=\dimen146
-\cmidrulewidth=\dimen147
-\belowrulesep=\dimen148
-\belowbottomsep=\dimen149
-\aboverulesep=\dimen150
-\abovetopsep=\dimen151
-\cmidrulesep=\dimen152
-\cmidrulekern=\dimen153
-\defaultaddspace=\dimen154
-\@cmidla=\count193
-\@cmidlb=\count194
-\@aboverulesep=\dimen155
-\@belowrulesep=\dimen156
-\@thisruleclass=\count195
-\@lastruleclass=\count196
-\@thisrulewidth=\dimen157
-) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
+\@cmidla=\count196
+\@cmidlb=\count197
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
+\@thisruleclass=\count198
+\@lastruleclass=\count199
+\@thisrulewidth=\dimen165
+) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count197
+\l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box53
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
- (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead heightrounded 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(54.2025pt, 682.43935pt, 108.405pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=646.0pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-18.06749pt
+* \headheight=14.5pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
-\scratchdimen=\dimen158
+\scratchcounter=\count267
+\scratchdimen=\dimen166
 \scratchbox=\box54
-\nofMPsegments=\count199
-\nofMParguments=\count266
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count267
-\MPscratchDim=\dimen159
-\MPnumerator=\count268
-\makeMPintoPDFobject=\count269
-\everyMPtoPDFconversion=\toks20
-) (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen167
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks21
+) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\gumac\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) (../relatorios/tabelas/ex3-ABW.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -114,43 +168,1513 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-[]|\OT1/cmr/m/n/10 Participa^^Xc~ao da
- []
-
-
-Underfull \hbox (badness 1946) in paragraph at lines 7--7
-\OT1/cmr/m/n/10 Ind^^Sustria nas Ex-
- []
-
-
-Underfull \hbox (badness 2818) in paragraph at lines 13--13
-[]|\OT1/cmr/m/n/10 Food/beverage/tobacco pro-cess-ing
- []
-
-
-Overfull \hbox (115.56493pt too wide) in paragraph at lines 5--17
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
  [][] 
  []
 
-) [1{C:/Users/gumac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux)
+) (../relatorios/tabelas/ex3-AFG.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-AGO.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-AIA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ALB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-AND.tex
+Underfull \hbox (badness 1939) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ARE.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ARG.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ARM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ASM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ATA.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Measuring/testing/navigating ap-pli-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ATF.tex
+Underfull \hbox (badness 1939) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ATG.tex
+Underfull \hbox (badness 1939) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-AUS.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-AUT.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-AZE.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BDI.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BEL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BEN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BES.tex
+Underfull \hbox (badness 1997) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Pharmaceuticals medic-i-nal chem-i-cals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Measuring/testing/navigating ap-pli-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BFA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BGD.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BGR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BHR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BHS.tex
+Underfull \hbox (badness 1939) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BIH.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BLM.tex
+Underfull \hbox (badness 1939) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BLR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BLZ.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BMU.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BOL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BRA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BRB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BRN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BTN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BVT.tex
+Underfull \hbox (badness 1783) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Automobile bod-ies trail-ers & semi-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-BWA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CAF.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CAN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CCK.tex
+Underfull \hbox (badness 5519) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Other wood prod-ucts; ar-ti-cles of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CHE.tex
+Underfull \hbox (badness 1997) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Pharmaceuticals medic-i-nal chem-i-cals
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CHL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CHN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CIV.tex
+Underfull \hbox (badness 2726) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Cocoa choco-late and sugar con-fec-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CMR.tex
+Underfull \hbox (badness 2726) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Cocoa choco-late and sugar con-fec-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-COD.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-COG.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-COK.tex
+Underfull \hbox (badness 1939) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-COL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-COM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CPV.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CRI.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CUB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CUW.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CXR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CYM.tex
+Underfull \hbox (badness 1939) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CYP.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-CZE.tex
+Underfull \hbox (badness 3343) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-DEU.tex
+Underfull \hbox (badness 1783) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Automobile bod-ies trail-ers & semi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Railway/tramway lo-co-mo-tives &
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-DJI.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-DMA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-DNK.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-DOM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-DZA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ECU.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-EGY.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ERI.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ESH.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ESP.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Struct.non-refractory clay; ce-ramic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Railway/tramway lo-co-mo-tives &
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-EST.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ETH.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-FIN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-FJI.tex
+Underfull \hbox (badness 3343) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-FLK.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-FRA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-FRO.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-FSM.tex
+Underfull \hbox (badness 5519) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Other wood prod-ucts; ar-ti-cles of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GAB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GBR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GEO.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GHA.tex
+Underfull \hbox (badness 2726) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Cocoa choco-late and sugar con-fec-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GIB.tex
+Underfull \hbox (badness 1939) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GIN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GMB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GNB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GNQ.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GRC.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GRD.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GRL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GTM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GUM.tex
+Underfull \hbox (badness 3343) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-GUY.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-HKG.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-HMD.tex
+Underfull \hbox (badness 1360) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Optical in-stru-ments & pho-to-graphic
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-HND.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-HRV.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-HTI.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-HUN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-IDN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-IND.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-IOT.tex
+Underfull \hbox (badness 3343) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-IRL.tex
+Underfull \hbox (badness 1997) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Pharmaceuticals medic-i-nal chem-i-cals
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-IRN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-IRQ.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ISL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ISR.tex
+Underfull \hbox (badness 5741) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Pesticides and other agro-chemical
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ITA.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Struct.non-refractory clay; ce-ramic
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-JAM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-JOR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-JPN.tex
+Underfull \hbox (badness 1360) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Optical in-stru-ments & pho-to-graphic
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-KAZ.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-KEN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-KGZ.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-KHM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-KIR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-KNA.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Measuring/testing/navigating ap-pli-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-KOR.tex
+Underfull \hbox (badness 1360) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Optical in-stru-ments & pho-to-graphic
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-KWT.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LAO.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LBN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LBR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LBY.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LCA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LKA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LSO.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LTU.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LUX.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-LVA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MAC.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MAR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MDA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MDG.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MDV.tex
+Underfull \hbox (badness 3343) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MEX.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MHL.tex
+Underfull \hbox (badness 1939) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Railway/tramway lo-co-mo-tives &
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MKD.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MLI.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MLT.tex
+Underfull \hbox (badness 1997) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Pharmaceuticals medic-i-nal chem-i-cals
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MMR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MNE.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MNG.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MNP.tex
+Underfull \hbox (badness 3343) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MOZ.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MRT.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MSR.tex
+Underfull \hbox (badness 1997) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Pharmaceuticals medic-i-nal chem-i-cals
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MUS.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MWI.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-MYS.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NAM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NCL.tex
+Underfull \hbox (badness 1783) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Automobile bod-ies trail-ers & semi-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NER.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NFK.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NGA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NIC.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NIU.tex
+Underfull \hbox (badness 3343) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NLD.tex
+Underfull \hbox (badness 1939) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NOR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NPL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NRU.tex
+Underfull \hbox (badness 1360) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Optical in-stru-ments & pho-to-graphic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Railway/tramway lo-co-mo-tives &
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-NZL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-OMN.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Struct.non-refractory clay; ce-ramic
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PAK.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PAN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PCN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PER.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PHL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PLW.tex
+Underfull \hbox (badness 3343) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Measuring/testing/navigating ap-pli-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PNG.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-POL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PRK.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PRT.tex
+Underfull \hbox (badness 5519) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Other wood prod-ucts; ar-ti-cles of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PRY.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PSE.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-PYF.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-QAT.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ROU.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-RUS.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-RWA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SAU.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SDN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SEN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SGP.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SGS.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Measuring/testing/navigating ap-pli-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SHN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SLB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SLE.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SLV.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SMR.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Struct.non-refractory clay; ce-ramic
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SOM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SPM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SRB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SSD.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-STP.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SUR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SVK.tex
+Underfull \hbox (badness 1783) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Automobile bod-ies trail-ers & semi-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SVN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SWE.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SWZ.tex
+Underfull \hbox (badness 2726) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Cocoa choco-late and sugar con-fec-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SXM.tex
+Underfull \hbox (badness 5741) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Pesticides and other agro-chemical
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SYC.tex
+Underfull \hbox (badness 1939) in paragraph at lines 10--10
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-SYR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TCA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TCD.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TGO.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-THA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TJK.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TKL.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TKM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TLS.tex
+Underfull \hbox (badness 1783) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10 Automobile bod-ies trail-ers & semi-
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TON.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TTO.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TUN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TUR.tex
+Underfull \hbox (badness 3343) in paragraph at lines 13--13
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TUV.tex
+Underfull \hbox (badness 3343) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Tanks reser-voirs and con-tain-ers of
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TWN.tex
+Underfull \hbox (badness 1360) in paragraph at lines 11--11
+[]|\OT1/cmr/m/n/10 Optical in-stru-ments & pho-to-graphic
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-TZA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-UGA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-UKR.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-UMI.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-URY.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-USA.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-UZB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-VAT.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-VCT.tex
+Underfull \hbox (badness 1939) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-VEN.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-VGB.tex
+Underfull \hbox (badness 1939) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-VNM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-VUT.tex
+Underfull \hbox (badness 1939) in paragraph at lines 14--14
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-WLF.tex
+Underfull \hbox (badness 1939) in paragraph at lines 9--9
+[]|\OT1/cmr/m/n/10 Building/repairing of plea-sure/sport.
+ []
+
+
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-WSM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-YEM.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ZAF.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ZMB.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) (../relatorios/tabelas/ex3-ZWE.tex
+Overfull \hbox (21.82341pt too wide) in paragraph at lines 5--17
+ [][] 
+ []
+
+) [1{C:/Users/Usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1420 strings out of 475550
- 23895 string characters out of 5762533
- 1923238 words of memory out of 5000000
- 22676 multiletter control sequences out of 15000+600000
+ 5076 strings out of 475550
+ 113180 string characters out of 5761589
+ 2728238 words of memory out of 5000000
+ 25620 multiletter control sequences out of 15000+600000
  558069 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,234b,220s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/gumac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on main.pdf (1 page, 23385 bytes).
+ 57i,11n,65p,242b,220s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on main.pdf (59 pages, 134390 bytes).
 PDF statistics:
- 11 PDF objects out of 1000 (max. 8388607)
+ 197 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
