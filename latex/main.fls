@@ -48,6 +48,11 @@ INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epst
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\arquivos\todas-tabelas.tex
+INPUT .\arquivos\todas-tabelas.tex
+INPUT .\arquivos\todas-tabelas.tex
+INPUT .\arquivos\todas-tabelas.tex
+INPUT arquivos\todas-tabelas.tex
 INPUT ..\relatorios\tabelas\ex3-ABW.tex
 INPUT ..\relatorios\tabelas\ex3-ABW.tex
 INPUT ..\relatorios\tabelas\ex3-ABW.tex
