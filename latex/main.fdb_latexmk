@@ -1,5 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1695992639 "c:/git/comercio-aps1/latex/main.tex" "main.pdf" "main" 1695992641 0
+["pdflatex"] 1696020804 "c:/git/comercio-aps1/latex/main.tex" "main.pdf" "main" 1696020815 0
+  "../plots/rca_hc.png" 1695680103 475278 f81b7552cd254f307cbcb2305522eee9 ""
+  "../plots/rca_k_constant.png" 1695680103 506794 40a41a36dc8f5756ece202eea7f8b6a7 ""
+  "../plots/rca_k_ppp.png" 1695680103 516056 1213f850913ca3829dab5c00e000cfdb ""
+  "../plots/rca_land.png" 1695680103 493203 29f3c3fde9f687088203290d83328734 ""
   "../relatorios/tabelas-tempo/ex3-ARG.tex" 1695991947 824 1190fdb6698148b1d8eaa9f49a0428cf ""
   "../relatorios/tabelas-tempo/ex3-AZE.tex" 1695991947 894 18b63096e1504fc4186f0728f9bd789b ""
   "../relatorios/tabelas-tempo/ex3-BRA.tex" 1695991948 768 71e462f7afe050776875c4d7262eea95 ""
@@ -21,7 +25,12 @@
   "../relatorios/tabelas/ex3-URY.tex" 1695991932 1063 a9267e17ac074ca973ad20fc40057aee ""
   "../relatorios/tabelas/ex3-USA.tex" 1695991936 1189 0f3a6da41e3c9a99e64a33f16806c0a5 ""
   "C:/Users/gumac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1692625909 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/gumac/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1690222072 11548 a70ae084ff656948aa72bd3f7cb4e17e ""
   "C:/Users/gumac/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1689621839 24118912 2933618e379a1e218fd36a2d29ca5672 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/gumac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/gumac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -42,9 +51,10 @@
   "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1681896761 29940 9473d58112bc8a88f5505b823a053dde ""
   "C:/Users/gumac/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1686255640 12691 ddae4e0162a664f166015d992388b742 ""
   "arquivos/tabelas-selecionadas.tex" 1695992636 876 ba4c1d9783bbb4471d74ebda06469ae3 ""
-  "c:/git/comercio-aps1/latex/main.tex" 1695992639 580 612dd6eb773f4d4a5e6e66d9e4d47e45 ""
-  "main.aux" 1695992641 3844 378b64b176b0afe78592187b7be3295e "pdflatex"
-  "main.tex" 1695992639 580 612dd6eb773f4d4a5e6e66d9e4d47e45 ""
+  "c:/git/comercio-aps1/latex/main.tex" 1696019897 695 ce45d5a2a92fbc2c3d5ceff23797f9fc ""
+  "main.aux" 1696020815 5126 4916429123fc407d31be7214b306f83d "pdflatex"
+  "main.tex" 1696019897 695 ce45d5a2a92fbc2c3d5ceff23797f9fc ""
+  "texto.tex" 1696020795 13227 559e1b0549968ef31d5eb0f9684a7abe ""
   (generated)
   "main.aux"
   "main.log"
