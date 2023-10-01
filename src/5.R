@@ -27,8 +27,8 @@ itpd.b <- itpd.a %>%
   
 ## D) e E) ----
 itpd.d <- itpd.b %>% 
-  mutate(setor = ifelse(broad_sector == 4, "servicos", "nao-servicos"),
-         renda = ifelse(income_group == "High income", "renda alta", "renda nao-alta")) %>% 
+  mutate(setor = ifelse(broad_sector == 4, "Serviços", "Não-serviços"),
+         renda = ifelse(income_group == "High income", "Renda alta", "Renda não-alta")) %>% 
   select(exporter_iso3, industry_id, GL = GL_ij, setor, renda)
 
 itpd.d %>% 
@@ -41,8 +41,9 @@ itpd.d %>%
   geom_histogram(aes(GL, y = ..density..), alpha = 0.5, color = "grey") +
   geom_density(aes(GL), color = "#C6151D", lwd = 1) +
   facet_grid(rows = vars(setor), cols = vars(renda)) +
-  theme_bw()
-ggsave('plots/gl.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
+  theme_bw() +
+  labs(x = "Índice de Grubel-Lloyd", y = "Densidade de probabilidade")
+ggsave('plots/gl.png', dpi = 600, height = 14, width = 21, unit = 'cm', bg = 'white')
 
 
 

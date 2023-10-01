@@ -1,5 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1696172832 "d:/git/comercio-aps1/latex/main.tex" "main.pdf" "main" 1696172839 0
+["pdflatex"] 1696173434 "d:/git/comercio-aps1/latex/main.tex" "main.pdf" "main" 1696173442 0
+  "../plots/gl.png" 1696173415 263912 d4eb82f3fba23b6a4af3c9c939c6b427 ""
   "../plots/rca_hc.png" 1696171911 1030738 ae2458d2cccf590db94002460305daef ""
   "../plots/rca_k_constant.png" 1696171915 1135808 2c0c2974fa2a93bf59198ebc308f6fb3 ""
   "../plots/rca_k_ppp.png" 1696171917 1153711 a0e1aecb84476e9d696cc7f4c9959118 ""
@@ -65,9 +66,9 @@
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1686255640 12691 ddae4e0162a664f166015d992388b742 ""
   "arquivos/tabelas-selecionadas.tex" 1696169223 876 ba4c1d9783bbb4471d74ebda06469ae3 ""
   "d:/git/comercio-aps1/latex/main.tex" 1696172582 658 b112910ac0e563165bdd96d701c2f1a7 ""
-  "main.aux" 1696172838 5526 fcf7b3140229b0c64be5c83e17886223 "pdflatex"
+  "main.aux" 1696173442 6025 be72b15d5d653c78d62eed7c397d633e "pdflatex"
   "main.tex" 1696172582 658 b112910ac0e563165bdd96d701c2f1a7 ""
-  "texto.tex" 1696172824 15894 94ed4a95253aa01929a9ff7d408839da ""
+  "texto.tex" 1696173434 16229 5e0faa23faa8a22c034fc28e79e54359 ""
   (generated)
   "main.aux"
   "main.log"
