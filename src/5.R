@@ -31,11 +31,18 @@ itpd.d <- itpd.b %>%
          renda = ifelse(income_group == "High income", "renda alta", "renda nao-alta")) %>% 
   select(exporter_iso3, industry_id, GL = GL_ij, setor, renda)
 
+itpd.d %>% 
+  write.csv(., file = "relatorios/tabela_ex5.csv")
+
 ## F) ----
 itpd.d %>% 
   filter(!is.na(renda)) %>% 
   ggplot() +
-  geom_density(aes(GL)) +
-  facet_wrap(~ setor + renda)
+  geom_histogram(aes(GL, y = ..density..), alpha = 0.5, color = "grey") +
+  geom_density(aes(GL), color = "#C6151D", lwd = 1) +
+  facet_grid(rows = vars(setor), cols = vars(renda)) +
+  theme_bw()
+ggsave('plots/gl.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
+
 
 

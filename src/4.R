@@ -87,40 +87,40 @@ df %>%
   facet_wrap(~ sector_name) +
   labs(x = "Estoque de capital humano",
        y = "RCA")
-ggsave('plots/rca_hc.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
+ggsave('plots/rca_hc.png', dpi = 600, height = 14, width = 21, unit = 'cm', bg = 'white')
 
 df %>% 
   filter(!is.na(agricultural_land_area), !is.na(RCA), RCA != 0, year == 2016) %>% 
   ggplot(aes(x = agricultural_land_area, y = RCA)) +
-    scale_y_continuous(trans='log10') +
-    scale_x_continuous(trans='log10') +
-    stat_summary_bin(fun = "mean", bins = 1000, geom = "point", alpha = 0.75) +
-    geom_smooth(method = "lm", color = "#C6151D") +
-    facet_wrap(~ sector_name) +
-    labs(x = "Ãrea de terras agrÃ­colas",
-        y = "RCA")
-ggsave('plots/rca_land.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
+  scale_y_continuous(trans='log10') +
+  scale_x_continuous(trans='log10') +
+  stat_summary_bin(fun = "mean", bins = 1000, geom = "point", alpha = 0.75) +
+  geom_smooth(method = "lm", color = "#C6151D") +
+  facet_wrap(~ sector_name) +
+  labs(x = "Área de terras agrícolas",
+       y = "RCA")
+ggsave('plots/rca_land.png', dpi = 600, height = 14, width = 21, unit = 'cm', bg = 'white')
 
 df %>% 
   filter(!is.na(capital_stock_constant), !is.na(RCA), RCA != 0, year == 2016) %>% 
   ggplot(aes(x = capital_stock_constant, y = RCA)) +
-    scale_y_continuous(trans='log10') +
-    scale_x_continuous(trans='log10') +
-    stat_summary_bin(fun = "mean", bins = 1000, geom = "point", alpha = 0.75) +
-    geom_smooth(method = "lm", color = "#C6151D") +
-    facet_wrap(~ sector_name) +
-    labs(x = "Estoque de capital a preÃ§os nacionais correntes (milhÃµes 2017US$)",
-        y = "RCA")
-ggsave('plots/rca_k_constant.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
+  scale_y_continuous(trans='log10') +
+  scale_x_continuous(trans='log10') +
+  stat_summary_bin(fun = "mean", bins = 1000, geom = "point", alpha = 0.75) +
+  geom_smooth(method = "lm", color = "#C6151D") +
+  facet_wrap(~ sector_name) +
+  labs(x = "Estoque de capital a preços nacionais correntes (milhões 2017US$)",
+       y = "RCA")
+ggsave('plots/rca_k_constant.png', dpi = 600, height = 14, width = 21, unit = 'cm', bg = 'white')
 
 df %>% 
   filter(!is.na(capital_stock_ppp), !is.na(RCA), RCA != 0, year == 2016) %>% 
   ggplot(aes(x = capital_stock_ppp, y = RCA)) +
-    scale_y_continuous(trans='log10') +
-    scale_x_continuous(trans='log10') +
-    stat_summary_bin(fun = "mean", bins = 1000, geom = "point", alpha = 0.75) +
-    geom_smooth(method = "lm", color = "#C6151D") +
-    facet_wrap(~ sector_name) +
-    labs(x = "Estoque de capital corrigidos pela PPP (mil. 2017US$)",
-        y = "RCA")
-ggsave('plots/rca_k_ppp.png', dpi = 600, height = 10, width = 16, unit = 'cm', bg = 'white')
+  scale_y_continuous(trans='log10') +
+  scale_x_continuous(trans='log10') +
+  stat_summary_bin(fun = "mean", bins = 1000, geom = "point", alpha = 0.75) +
+  geom_smooth(method = "lm", color = "#C6151D") +
+  facet_wrap(~ sector_name) +
+  labs(x = "Estoque de capital corrigidos pela PPP (mil. 2017US$)",
+       y = "RCA")
+ggsave('plots/rca_k_ppp.png', dpi = 600, height = 14, width = 21, unit = 'cm', bg = 'white')
