@@ -75,7 +75,7 @@ Por fim, nos Estados Unidos (Tabela \ref{tab:ex3-tempo-USA}) houve um cresciment
     \centering
     \caption{Dispersão da vantagem comparativa revelada}
     \includegraphics*[width = 0.8\linewidth]{../plots/rca_hc.png}
-
+    \label{fig:hc}
 \end{figure}
 
 
@@ -83,32 +83,32 @@ Por fim, nos Estados Unidos (Tabela \ref{tab:ex3-tempo-USA}) houve um cresciment
     \centering
     \caption{Dispersão da vantagem comparativa revelada}
     \includegraphics*[width = 0.8\linewidth]{../plots/rca_k_constant.png}
-
+    \label{fig:kc}
 \end{figure}
 
 \begin{figure}[!h]
     \centering
     \caption{Dispersão da vantagem comparativa revelada}
     \includegraphics*[width = 0.8\linewidth]{../plots/rca_k_ppp.png}
-
+    \label{fig:kppp}
 \end{figure}
 
 \begin{figure}[!h]
     \centering
     \caption{Dispersão da vantagem comparativa revelada}
     \includegraphics*[width = 0.8\linewidth]{../plots/rca_land.png}
-
+    \label{fig:agro}
 \end{figure}
 
 \subsection{Influência dos fatores de produção e a especialização, comparação do Hecksher-Ohlin}
 
 No modelo de Hecksher-Ohlin, os países terão vantagem comparativa de produção de alguns produtos e alguns setores de acordo com a dotação de fatores existentes, dado que não há possibilidade de realocar esses fatores para outros países. Assim, os países acabarão sob uma ótica de incentivos  de produção, se especializando nos setores que mais são intensivos no(s) fator(es) abundante(s) do país e assim sendo mais competitivos.
 
-Deste modo, observando a dotação do fator Terras Agricultáveis, não se observa de maneira clara o esperado pelo modelo, que seria os países com mais terras agricultáveis e especializarem-se na produção dos produtos e no setor agrícola. A explicação para essa diferença pode se dar por políticas protecionistas e o interesse dos países em terem sua produção nacional ou por perto dos alimentos, o que acarreta em subsídios, incentivos à fazendeiros e produtores, e Políticas Comerciais restritivas aos produtos estrangeiros.
+Deste modo, observando a dotação do fator Terras Agricultáveis (Figura \ref{fig:agro}), não se observa de maneira clara o esperado pelo modelo, que seria os países com mais terras agricultáveis e especializarem-se na produção dos produtos e no setor agrícola. A explicação para essa diferença pode se dar por políticas protecionistas e o interesse dos países em terem sua produção nacional ou por perto dos alimentos, o que acarreta em subsídios, incentivos à fazendeiros e produtores, e Políticas Comerciais restritivas aos produtos estrangeiros.
 
-Já o fator indicado pelo Índice de Capital Humano, observa-se o esperado pelo modelo, no caso quanto maior o índice, maior foi o RCA para os setores naturalmente mais intensivos em capital humano, sendo eles Manufatura, Mineração e Energia e o setor de Serviços. Sendo mais expresso no primeiro e no último. Essa maior clareza da especialização, em comparação ao das Terras Agricultáveis, pode se dar pela dificuldade de intervenção e restrição comercial nestes setores, afinal, muitas firmas de fato se alocam pelo mundo por conta do menor custo e disponibilidade de mão de obra.
+Já o fator indicado pelo Índice de Capital Humano (Figura \ref{fig:hc}), observa-se o esperado pelo modelo, no caso quanto maior o índice, maior foi o RCA para os setores naturalmente mais intensivos em capital humano, sendo eles Manufatura, Mineração e Energia e o setor de Serviços. Sendo mais expresso no primeiro e no último. Essa maior clareza da especialização, em comparação ao das Terras Agricultáveis, pode se dar pela dificuldade de intervenção e restrição comercial nestes setores, afinal, muitas firmas de fato se alocam pelo mundo por conta do menor custo e disponibilidade de mão de obra.
 
-Considerando o fator Capital Físico, há indícios de assimilação com o modelo de Heckscher-Ohlin, refletindo a maior competitividade nos setores de Mineração e Energia (naturalmente intensivos em capital) e também no de Manufatura (que exige capital físico, mas também trabalho). Assim, indicando que de maneira geral quanto maior a disponibilidade de capital físico (à preços nacionais constantes e também sob os níveis de preço do período), maior a competitividade do país nos setores intensivos deste. Deste modo, novamente decorrendo na tese de especialização em setores os quais são intensivos no fator de produção abundante na economia.
+Considerando o fator Capital Físico (Figura \ref{fig:kc} ou \ref{fig:kppp}), há indícios de assimilação com o modelo de Heckscher-Ohlin, refletindo a maior competitividade nos setores de Mineração e Energia (naturalmente intensivos em capital) e também no de Manufatura (que exige capital físico, mas também trabalho). Assim, indicando que de maneira geral quanto maior a disponibilidade de capital físico (à preços nacionais constantes e também sob os níveis de preço do período), maior a competitividade do país nos setores intensivos deste. Deste modo, novamente decorrendo na tese de especialização em setores os quais são intensivos no fator de produção abundante na economia.
 
 \clearpage
 \section{Comércio Intra-Indústria}
@@ -120,10 +120,47 @@ Considerando o fator Capital Físico, há indícios de assimilação com o model
     \centering
     \caption{Índice de Grubel-Lloyd para cada grupo de país}
     \includegraphics*[width = 0.8\linewidth]{../plots/gl.png}
-
+    \label{fig:gl}
 \end{figure}
 
 \subsection{Interpretação dos resultados}
+
+Analisando detalhadamente os histogramas de distribuição do índice de Grubel-Lloyd (Figura \ref{fig:gl}) dividido em serviços e não-serviços e dividido entre países de alta e baixa renda, observa-se que os países de renda alta no geral tem o índice mais alto, indicando um menor grau de especialização e diferenciação intra-indústria, ou seja, há grande geração de valor nas trocas geradas para os países mais pobres.
+
+Observando separadamente entre as categorias de serviços e não serviços, nota-se que em não-serviços a distribuição é parecida tanto para os países de renda alta quanto para os de baixa, mas os ricos com menor concentração de GL baixo (sendo mais uniforme), e os pobres com muita concentração (sendo mais exponencial), indicando respectivamente menor especialização e maior especialização em não-serviços. Assim, os países mais pobres, diante do comércio internacional, acabam sendo incentivados a exportar ou importar mais, indicando especialização do setor de não-serviços por parte do país. Porém, os países mais ricos importam e exportam em altos volumes, tornando seus indicadores mais altos em relação aos pobres, o que pode indicar uma menor especialização, gerando relativamente menos ganhos trazidos pelo comércio.
+
+Já ao olhar o setor de serviços observa-se uma maior discrepância entre os tipos de países. Os mais ricos apresentam uma acúmulo de países com GL alto (sendo uma distribuição linear crescente), e os mais pobres, por sua vez, apresentam uma distribuição uniforme nos diferentes níveis de GL. Portanto, no setor de serviços, poucos países se especializam, sendo a maioria deles pobres, e mesmo entre esses a parcela é pequena. De resto, os países têm um indicador mediano, nem alto e nem baixo. Isto pode ser reflexo da dificuldade de comercialização de serviços, afinal muitos são específicos ao país/região e não são facilmente exportáveis/importáveis. Além disso, países ricos acabam tanto exportando quanto importando serviços comercializáveis (principalmente financeiros e de software, que são mais globais), já os pobres tendem a importar mais por conta do baixo grau de desenvolvimento tecnológico, refletindo a especialização desses em setores de não-serviço.
+
+Portanto, a distribuição dos países mais ricos pode ser explicada pelo baixo grau de especialização de seus setores, e os países pobres acabam por se destacar neste sentido, sendo mais beneficiados por comércio. Já o setor de serviços se observa no geral ser pouco apto à especialização entre os países, mas novamente e de maneira geral, os países mais ricos não se comparam aos mais pobres em termos de competitividade e especialização.
+
+\clearpage
+\section{Comércio Intra-Indústria na União Europeia}
+\setcounter{subsection}{1}
+
+\subsection{Grubel-Lloyd Intra-Indústria (Aeronaves e Espaçonaves)}
+
+\begin{figure}[!h]
+    \centering
+    \caption{Índice de Grubel-Lloyd na União Europeia}
+    \includegraphics*[width = 0.8\linewidth]{../plots/gl_eu.png}
+    \label{fig:gl-ue}
+\end{figure}
+
+Ao se analisar o setor de “Aeronaves e Espaçonaves” no comércio intra-indústria União Européia, observa-se uma dispersão bem alta de índices de Grubel-Lloyd, indicando que alguns países possuem forte grau de especialização nesta indústria, enquanto outros possuem um grau bem mais baixo. Nota-se que Malta, Chipre, Finlândia e Luxemburgo são os que mais comercializam, relativamente, nesse setor, afinal são muito mais especializados (o fato de serem pequenas economias ajuda nessa especialização). Já outros como Sérvia, Bélgica, Polônia e Hungria são aqueles que apresentam menor grau de especialização, ou seja, exportam e importam nesse setor em um volume semelhante. De maneira geral, os países do Bloco da UE não indicam alto grau de especialização para a indústria de aeronaves, ou seja, talvez o bloco tenha favorecido a indústria em termos de produção especializada (como se poucos países fossem os exportadores e o restante os importadores). Mas de fato, talvez pelo setor ser em algum grau estratégico para as nações, existam interesses nacionais de manter uma indústria própria e assim incentivos para manter o setor.
+
+\subsection{Comércio Intra-indústria União Européia e comparativo fora do bloco}
+
+\input{../relatorios/gl/gl.tex}
+
+Observando a evolução do índice Grubel-Lloyd no tempo (Tabela \ref{tab:ex6-gl}) e para as diferentes regiões do globo, analisa-se que a União Européia no período de 2010 a 2016 teve uma redução significativa do indicador, apontando um maior grau de especialização das relações comerciais do bloco para fora. Dessa forma, é possível conjecturar que a região está se especializando na produção e exportação de aeronaves de ponta, enquanto não importa de forma considerável esse produto de outros países. 
+
+Nesse contexto, tais mudanças fazem sentido, quando observamos a União Européia com um consórcio entre diversos países detentores da empresa aeroespacial Airbus, que desenvolve aeronaves de ponta que são utilizadas tanto na Europa como em todos os outros locais do mundo.
+
+Ademais, no contexto da América do Norte, nota-se que, apesar dos Estados Unidos possuírem uma gigante do setor como a Boeing, o indicador ainda é muito baixo, indicando que o comércio intra-setorial é muito alto. Isso pode ser explicado pelos altos níveis de importação de aeronaves de fabricação tanto europeia, no caso da Airbus, como até mesmo brasileiras, como é o caso da Embraer.
+
+Em regiões como a Micronésia, o indicador é muito baixo e isso pode ser justamente pelo baixo volume de comércio em tal setor, fazendo com que tanto as exportações como as importações aconteçam em um nível reduzido e abaixando o indicador.  
+
+Por fim, é importante considerar que como muitos países dentre algumas regiões não importam e nem exportam bens do setor de aeronaves e espaçonaves, neste caso, prejudicando o cálculo do indicador. 
 
 
 \clearpage
