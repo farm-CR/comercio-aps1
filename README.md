@@ -1,0 +1,1 @@
+Para a reprodutibilidade do código, é necessário colocar no diretório do projeto uma pasta chamada "dados", que contém as bases disponibilizadas para a APS. Na pasta "src" há os scripts utilizados para as questões, na pasta "relatorios" estão as tabelas geradas, e na pasta "plots", os gráficos. 

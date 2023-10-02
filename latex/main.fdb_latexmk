@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1696212135 "d:/git/comercio-aps1/latex/main.tex" "main.pdf" "main" 1696212144 0
+["pdflatex"] 1696212772 "d:/git/comercio-aps1/latex/main.tex" "main.pdf" "main" 1696212781 0
   "../plots/gl.png" 1696173415 263912 d4eb82f3fba23b6a4af3c9c939c6b427 ""
   "../plots/gl_eu.png" 1696207202 182200 c6952e5a92c0b12d520b2d9c817686e0 ""
   "../plots/rca_hc.png" 1696171911 1030738 ae2458d2cccf590db94002460305daef ""
@@ -33,8 +33,10 @@
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1687795841 147409 d8de7b91ee5da1a3f92f78aef2bed0f7 ""
@@ -89,10 +91,10 @@
   "C:/Users/Usuario/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "arquivos/tabelas-selecionadas.tex" 1696169223 876 ba4c1d9783bbb4471d74ebda06469ae3 ""
   "d:/git/comercio-aps1/latex/main.tex" 1696212010 675 0a16cc4496ba10b776b0e8420f7ece86 ""
-  "main.aux" 1696212144 9363 fc1f52e3ab49329ed774d463dacced7f "pdflatex"
-  "main.out" 1696212144 3675 3f64e9a1dc233c83d20b6c7fcdb6e37e "pdflatex"
+  "main.aux" 1696212781 9363 fc1f52e3ab49329ed774d463dacced7f "pdflatex"
+  "main.out" 1696212781 3675 3f64e9a1dc233c83d20b6c7fcdb6e37e "pdflatex"
   "main.tex" 1696212010 675 0a16cc4496ba10b776b0e8420f7ece86 ""
-  "texto.tex" 1696212136 22517 be2920e53e226787e44d9e935e311b2e ""
+  "texto.tex" 1696212771 22939 c2f280d7234eab49ab3f50c7da909cd3 ""
   (generated)
   "main.aux"
   "main.log"
